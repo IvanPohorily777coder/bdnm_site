@@ -84,6 +84,11 @@ li {
 
 
 @media (min-width: 380px) and (max-width: 499px) {
+
+    .container {
+        height: 500px;
+    }
+
     .row_social-media {
         padding-top: 50px;
     }
